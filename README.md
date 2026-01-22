@@ -102,11 +102,13 @@ amountOut = (amountInWithFee × reserveOut) / (reserveIn × 1000 + amountInWithF
 
 ### Installation
 
-#### 1. Clone the repository
+### 1. Clone the repository
 
 ```
 git clone <your-repo-url>
 cd dex-amm
+
+----
 
 ### 2. Start Docker environment
 
@@ -168,3 +170,4 @@ Covers:
 - Designed for educational and evaluation purposes, not mainnet deployment
 ---
 ### Author: **Sanjana Medapati**
+
